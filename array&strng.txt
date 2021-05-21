@@ -1,0 +1,117 @@
+Long Pressed Name
+Range Addition
+    questions icon Max range query
+    questions icon Container With Most Water
+Squares of a sorted array
+    questions icon Next Greater Element III
+Majority element
+    questions icon Majority element 2
+    questions icon Majority element general
+    questions icon Max chunks to make sorted
+    questions icon Max Chunks To Make Sorted II
+Product of Array Except Self
+    questions icon Minimum Jump required with +i or -i allowed
+    questions icon Max product of three numbers
+    questions icon Maximum subarray
+    questions icon K-CON
+    questions icon Fast Exponentiation
+    questions icon Best meeting point
+    questions icon Segregate 0 and 1
+    questions icon Segregate 0,1,2
+    questions icon Sort Array By Parity
+    questions icon Number of subarrays with bounded maximum
+    questions icon Buddy nim
+    questions icon Sieve of Eratosthenes
+    questions icon Segmented sieve
+    questions icon Maximum Swap
+    questions icon Two sum
+    questions icon Two Difference
+    questions icon 3 Sum
+    questions icon 3 Sum Closest
+    questions icon 3 Sum Smaller
+    questions icon 3 Sum With Multiplicity
+    questions icon Boats to Save People
+    questions icon Partition Labels
+    questions icon Minimum no. of Platform
+    questions icon Minimum domino rotation for equal row
+    questions icon Consecutive number sum
+    questions icon Rotate image
+    questions icon Multiply strings
+    questions icon Push dominoes
+    questions icon Reverse vowels of a string
+    questions icon Partition array into disjoint intervals
+    questions icon Pascal triangle 2
+    questions icon Max Consecutive Ones II
+    questions icon Max consecutive ones 3
+    questions icon Max distace to closest
+    questions icon Smallest from k lists
+    questions icon Max product subarray
+    questions icon Valid pallindrome 2
+    questions icon First missing positive
+    questions icon Max sum of two non overlapping
+    questions icon Global and local
+    questions icon Design an Ordered Stream
+    questions icon Add Strings
+    questions icon Array Nesting
+    questions icon Array Partition I
+    questions icon Best Sightseeing Pair
+    questions icon Candy Crush
+    questions icon Circular Array Loop
+    questions icon Complex Number Multiplication
+    questions icon Count and Say
+    questions icon Custom Sort String
+    questions icon Delete Operation for Two Strings
+    questions icon Encode and Decode Strings
+    questions icon Find All Duplicates in an Array
+    questions icon Find and Replace Pattern
+    questions icon Word Subsets
+    questions icon Find the Closest Palindrome
+    questions icon Flip String to Monotone Increasing
+    questions icon Game of Life
+    questions icon Groups of Special-Equivalent Strings
+    questions icon Integer to English Words
+    questions icon Integer to Roman
+    questions icon Interval List Intersections
+    questions icon Longest Mountain in Array
+    questions icon Maximum Average Subarray I
+    questions icon Maximum Sum Circular Subarray
+    questions icon Maximum Width Ramp
+    questions icon Minimum Increment to Make Array Unique
+    questions icon Minimum Number of K Consecutive Bit Flips
+    questions icon Minimum Time Difference
+    questions icon Most Profit Assigning Work
+    questions icon Next Closest Time
+    questions icon Non-decreasing Array
+    questions icon Number of Matching Subsequences
+    questions icon One Edit Distance
+    questions icon Optimal Division
+    questions icon Pairs of Songs With Total Durations Divisible by 60
+    questions icon Parse Lisp Expression
+    questions icon Partition Array into Disjoint Intervals
+    questions icon Partition Array Into Three Parts With Equal Sum
+    questions icon Permutation in String
+    questions icon Pour Water
+    questions icon Read N Characters Given Read4 II - Call multiple times
+    questions icon Remove Duplicates from Sorted Array
+    questions icon Remove Duplicates from Sorted Array II
+    questions icon Repeated String Match
+    questions icon Reveal Cards In Increasing Order
+    questions icon RLE Iterator
+    questions icon Roman to Integer
+    questions icon Rotate Image
+    questions icon Set Matrix Zeroes
+    questions icon Shifting Letters
+    questions icon Shortest Unsorted Continuous Subarray
+    questions icon Shortest Word Distance III
+    questions icon Sliding Window Median
+    questions icon Split Array with Equal Sum
+    questions icon Stamping The Sequence
+    questions icon Subarray Product Less Than K
+    questions icon Sum of Even Numbers After Queries
+    questions icon Sum of Subsequence Widths
+    questions icon Teemo Attacking
+    questions icon Transform to Chessboard
+    questions icon Transpose Matrix
+    questions icon Valid Mountain Array
+    questions icon Replace by X
+
