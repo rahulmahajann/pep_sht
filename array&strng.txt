@@ -6,7 +6,7 @@ Squares of a sorted array
     questions icon Next Greater Element III
 Majority element
 Majority element 2
-    questions icon Majority element general
+Majority element general
     questions icon Max chunks to make sorted
     questions icon Max Chunks To Make Sorted II
 Product of Array Except Self
