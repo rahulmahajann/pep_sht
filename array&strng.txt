@@ -1,7 +1,7 @@
 Long Pressed Name
 Range Addition
     questions icon Max range query
-    questions icon Container With Most Water
+Container With Most Water
 Squares of a sorted array
     questions icon Next Greater Element III
 Majority element
