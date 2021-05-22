@@ -5,7 +5,7 @@ Container With Most Water
 Squares of a sorted array
     questions icon Next Greater Element III
 Majority element
-    questions icon Majority element 2
+Majority element 2
     questions icon Majority element general
     questions icon Max chunks to make sorted
     questions icon Max Chunks To Make Sorted II
