@@ -12,11 +12,11 @@ Majority element general
 Product of Array Except Self
     questions icon Minimum Jump required with +i or -i allowed
     questions icon Max product of three numbers
-questions icon Maximum subarray
+Maximum subarray  --> sahi krna hai abhi to krlia
     questions icon K-CON
     questions icon Fast Exponentiation
     questions icon Best meeting point
-    questions icon Segregate 0 and 1
+Segregate 0 and 1
     questions icon Segregate 0,1,2
     questions icon Sort Array By Parity
     questions icon Number of subarrays with bounded maximum
