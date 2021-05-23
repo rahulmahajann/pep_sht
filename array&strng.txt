@@ -12,7 +12,7 @@ Majority element general
 Product of Array Except Self
     questions icon Minimum Jump required with +i or -i allowed
     questions icon Max product of three numbers
-    questions icon Maximum subarray
+questions icon Maximum subarray
     questions icon K-CON
     questions icon Fast Exponentiation
     questions icon Best meeting point
@@ -114,4 +114,19 @@ Product of Array Except Self
     questions icon Transpose Matrix
     questions icon Valid Mountain Array
     questions icon Replace by X
-
+    questions icon Minimum size subarray sum
+    questions icon Beautiful arrangement 2
+    questions icon Kth smallest pair distance
+    questions icon Reverse subarray to maximize array value
+    questions icon Stamping the sequence
+    questions icon Minimum number of operation
+    questions icon Maximum average subarray 1
+    questions icon Meeting Rooms
+    questions icon Meeting Rooms 2
+    questions icon Merge Intervals
+    questions icon Interval list intersection
+    questions icon Insert Interval
+    questions icon Car pooling
+    questions icon Min number of arrows to burst balloon
+    questions icon ways to split into three subarrays
+    questions icon min length after deleting similar ends
