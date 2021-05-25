@@ -11,7 +11,7 @@ Majority element general
     questions icon Max Chunks To Make Sorted II
 Product of Array Except Self
     questions icon Minimum Jump required with +i or -i allowed
-    questions icon Max product of three numbers
+Max product of three numbers
 Maximum subarray  --> sahi krna hai abhi to krlia
     questions icon K-CON
     questions icon Fast Exponentiation
