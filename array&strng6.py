@@ -49,4 +49,7 @@ else:
         if(g==a):
             print(-1)
         else:
-            print(g)
+            if(g>a):
+                print(g)
+            else:
+                print(-1)
