@@ -36,9 +36,9 @@ Sort Array By Parity
     questions icon Minimum domino rotation for equal row
     questions icon Consecutive number sum
     questions icon Rotate image
-    questions icon Multiply strings
+Multiply strings
     questions icon Push dominoes
-    questions icon Reverse vowels of a string
+Reverse vowels of a string
     questions icon Partition array into disjoint intervals
     questions icon Pascal triangle 2
     questions icon Max Consecutive Ones II
