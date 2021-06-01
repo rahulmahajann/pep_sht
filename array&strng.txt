@@ -21,7 +21,7 @@ Segregate 0,1,2
 Sort Array By Parity
     questions icon Number of subarrays with bounded maximum
     questions icon Buddy nim
-    questions icon Sieve of Eratosthenes
+Sieve of Eratosthenes
     questions icon Segmented sieve
     questions icon Maximum Swap
     questions icon Two sum

@@ -13,9 +13,4 @@ def soe(n):
 
     return ans
 
-for _ in range(int(input())):
-    a,b=map(int,input().split())
-    l=soe(b)
-    for _ in l:
-        if(_>=a):
-            print(_)
+print(soe(10))
