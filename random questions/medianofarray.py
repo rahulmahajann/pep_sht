@@ -1,7 +1,13 @@
-a=[1,3]
-b=[2,3]
+a=[1,2]
+b=[3,4]
 
-a=sorted(a)
-b=sorted(b)
-x=format((a[-1]+b[-1])/2,'.5f')
-print(x)
+c=a+b
+c=sorted(c)
+if(len(c)%2==0):
+    print((c[len(c)//2]+c[(len(c)//2)-1])/2)
+    print(c[len(c)//2])
+    print(c[(len(c)//2)-1])
+else:
+    print(c[len(c)//2])
+# print(a[len(a)//2])
+print(c)
