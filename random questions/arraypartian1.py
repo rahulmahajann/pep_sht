@@ -10,4 +10,4 @@ for _ in d:
             a[r]+=1
         else:
             a[r]=1
-return ans%(10**9+7)
+print(ans%(10**9+7))
