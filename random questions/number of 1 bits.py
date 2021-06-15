@@ -14,4 +14,4 @@ ah=1-aw
 bw=c/d
 bh=1-bw
 comra=ah*bh
-print(aw*(1/1-comra))
+print(aw*(1/(1-comra)))
